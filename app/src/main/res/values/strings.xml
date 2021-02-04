@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Top100 Currencies</string>
+    <string name="the_index_is_calculated" translatable="false">The rating TOP-100 cryptocurrencies by market
+        capitalization.\nPowered by CoinGecko API
+    </string>
+    <string name="rate_this_app_button_text">Rate This App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="market_cap_rank_text">Market Cap Rank</string>
+    <string name="mc_hange_in_24h_text">MC сhange in 24h, %</string>
+    <string name="all_time_high_ath_text">All Time High (ATH)</string>
+    <string name="ath_change_text">ATH change, %</string>
+    <string name="circulating_supply_text">Circulating Supply</string>
+    <string name="total_supply_text">Total Supply</string>
+</resources>
